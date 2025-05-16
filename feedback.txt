@@ -1,0 +1,2 @@
+Thank you for your work, it is complete, nothing to correct. :) 
+(Some of the Animal class' and subclasses' functions and the printed sentences are quite similar or identical to the AI generated solutions- I hope this is just a coincidence..)
